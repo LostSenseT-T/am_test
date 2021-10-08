@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://lostsenset-t.github.io/am_test/Hybrid Meeting Prototype.appinstaller"
-	Version="1.1.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.1.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="AmazingMeetHeadset"
-		Version="1.1.5.0"
+		Version="1.1.6.0"
 		Publisher="CN=WeAR"
-		Uri="https://lostsenset-t.github.io/am_test/Hybrid Meeting Prototype_1.1.5.0_Test/Hybrid Meeting Prototype_1.1.5.0_arm.msixbundle" />
+		Uri="https://lostsenset-t.github.io/am_test/Hybrid Meeting Prototype_1.1.6.0_Test/Hybrid Meeting Prototype_1.1.6.0_arm.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="arm"
-			Uri="https://lostsenset-t.github.io/am_test/Hybrid Meeting Prototype_1.1.5.0_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
+			Uri="https://lostsenset-t.github.io/am_test/Hybrid Meeting Prototype_1.1.6.0_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
 			Version="14.0.30035.0" />
 	</Dependencies>
 	<UpdateSettings>
